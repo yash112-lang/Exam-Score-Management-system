@@ -1,0 +1,22 @@
+@page
+{
+    size: A4;
+    margin: 0;
+}
+#print-btn
+{
+    display: none;
+    visibility: none;
+}
+
+.remark
+{
+    margin-left: -400px;
+}
+
+
+.division
+{
+    /* margin-right: -1000px; */
+    margin-left: -220px;;
+}
