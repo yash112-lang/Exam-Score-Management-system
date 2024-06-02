@@ -76,6 +76,10 @@ else{
                 <label for="inputnumber">Phone Number</label>
                 <input type="number" class="form-control" id="inputnumber" placeholder="eg. 1234567890" name="phone" required>
             </div>
+             <div class="form-group">
+                <label for="inputnumber">Designation</label>
+                <input type="text" class="form-control" id="Designation" placeholder="eg. Software Developer" name="Designation" required>
+            </div>
             <div class="form-group">
                 <label for="inputrollnumber">Roll Number</label>
                 <input type="text" class="form-control" id="inputrollnumber" name="roll" placeholder="eg. 0905...." required>
@@ -108,6 +112,7 @@ else{
         <label class="form-check-label ml-4" for="exampleRadios2">
             Female
         </label>
+                
 
         <input class="form-check-input ml-2" type="radio" name="exampleRadios" id="exampleRadios3" value="Other">
         <label class="form-check-label ml-4" for="exampleRadios3">
